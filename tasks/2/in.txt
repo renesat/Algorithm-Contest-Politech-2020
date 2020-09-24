@@ -1,4 +1,0 @@
-3
-python
-pyramid
-pyjamas
